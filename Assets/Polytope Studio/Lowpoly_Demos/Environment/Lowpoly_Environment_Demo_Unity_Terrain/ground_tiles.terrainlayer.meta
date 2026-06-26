@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b8b06f1c2b2aa6e428c253e17ca432fc
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185195
+  packageName: Lowpoly Environment - Nature - MEDIEVAL FANTASY SERIES
+  packageVersion: 2.0.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Demos/Environment/Lowpoly_Environment_Demo_Unity_Terrain/ground_tiles.terrainlayer
+  uploadId: 787924

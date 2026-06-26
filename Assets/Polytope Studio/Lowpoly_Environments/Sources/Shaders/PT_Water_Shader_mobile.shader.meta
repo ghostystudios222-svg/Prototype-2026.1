@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ef0b0ba28687fa548965b5f59f4a5957
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _NormalMapTexture: {fileID: 2800000, guid: a78adb8868cccbe4a92d9d81db916e6e, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185195
+  packageName: Lowpoly Environment - Nature - MEDIEVAL FANTASY SERIES
+  packageVersion: 2.0.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders/PT_Water_Shader_mobile.shader
+  uploadId: 787924

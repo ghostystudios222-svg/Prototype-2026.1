@@ -13,6 +13,8 @@ public class MouseLook : MonoBehaviour
     {
         Cursor.lockState = CursorLockMode.Locked;
         Cursor.visible = false;
+        _xRotation = 0f;
+        look.action.ReadValue<Vector2>();
     }
 
     // Update is called once per frame

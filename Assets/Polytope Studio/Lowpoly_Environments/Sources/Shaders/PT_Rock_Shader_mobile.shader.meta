@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2ce785fc3e9aa814289252dc1d8f1ffd
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _BaseTexture: {fileID: 2800000, guid: a195a893970f3ab4990bd06e18a0b308, type: 3}
+  - _DecalsTexture: {fileID: 2800000, guid: d294e9544b9eca64188ea9d2482ea8a1, type: 3}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185195
+  packageName: Lowpoly Environment - Nature - MEDIEVAL FANTASY SERIES
+  packageVersion: 2.0.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders/PT_Rock_Shader_mobile.shader
+  uploadId: 787924

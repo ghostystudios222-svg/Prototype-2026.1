@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2ba0dc7356f003b4bb15cf65640c2df4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 185195
+  packageName: Lowpoly Environment - Nature - MEDIEVAL FANTASY SERIES
+  packageVersion: 2.0.1
+  assetPath: Assets/Polytope Studio/Lowpoly_Environments/Sources/Shaders/PT_Vegetation_Flowers_Shader_mobile.shader
+  uploadId: 787924
