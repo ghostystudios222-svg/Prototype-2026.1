@@ -38,6 +38,7 @@ public class FishingRodController : MonoBehaviour
 
             activeBobber = Instantiate(bobberPrefab, castPoint.position, Quaternion.identity);
             Rigidbody rb = activeBobber.AddComponent<Rigidbody>();
+            rb.collisionDetectionMode = CollisionDetectionMode.Continuous;
             rb.linearVelocity = castPoint.forward * castForce + Vector3.up * (castForce * 0.5f);
         }
     }
